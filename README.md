@@ -51,8 +51,6 @@ pip install torch==2.1.0 torchvision==0.16.0 torchaudio==2.1.0 --index-url https
 # Install xformers
 pip install xformers==0.0.22.post7
 
-# Install other requirements
-pip install -r requirements.txt
 ```
 
 # How to Use
