@@ -64,7 +64,7 @@ We currently only provide a beta version of the model in the [model card]（ htt
 Of course, we will provide other versions of the model based on the actual situation in the future.
 
 
-## CPU
+## GPU
 
 Use GPU to run MAI3-GPT (recommend)
 ```bash
