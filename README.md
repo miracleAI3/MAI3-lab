@@ -59,7 +59,7 @@ pip install -r requirements.txt
 
 ## Download the models
 
-We currently only provide a beta version of the model in the [model card]（ https://huggingface.co/mai3-lab/mai3-gpt ）.
+We currently only provide a beta version of the model in the [model card]（ https://huggingface.co/miracleAI3/mai3-gpt ）.
 
 Of course, we will provide other versions of the model based on the actual situation in the future.
 
